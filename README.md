@@ -14,7 +14,7 @@ homes. This system automates most of their business and has some exciting innova
     - A Learned Experience Engine within task assignment
     - Integrated Six Sigma inspired measurement
     - Integrated Support, Quality Management Framework and Product R&D workflows
-    - And it's a no-code solution. It's a platform...
+    - And it's a no-code solution, that also happens to be a platform...Which in the world of Nintex is an accomplishment we're proud of.
   - If you're tempted to write off no-code, Sharepoint or visual development, I'd invite you to consider the following. As the business analyst, developer and tester,
 I just used this stack to solve some real-world problems for a major local company in my market in under 18 months (during COVID). I'm the only developer, supported
 by a SharePoint architect (who stood the farm up) and our Co-Founder (who purchased the hardware and added the other pieces). 
