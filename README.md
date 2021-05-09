@@ -4,7 +4,7 @@ it's a visual workflow development tool on the SharePoint stack.
   - My opus (so far) is a business automation system for a ~$300M company that builds multi-family
 homes. This system automates most of their business and has some exciting innovations that we're really excited about. 
   - Phase 2 was launched to Sales last month, and it's the system central to their business in the following areas:
-    - Land aquisition
+    - Land acquisition
     - Building design
     - Estimating (Pro Forma estimating, Budgeting, Pricebooks for options)
     - Sales Management and Marketing projects
