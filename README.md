@@ -24,14 +24,8 @@ by a SharePoint architect (who stood the farm up) and our Co-Founder (who purcha
   - This experience is going to strongly influence how I engage in expanding my development toolkit. 
 - 👀 I’m interested in expanding my toolkit. I've had some inspiration around some ideas for some web services. I won't get into those as yet because I've been
 inspired to learn about Python and Web Development.
-  - Yesterday I signed up for some Udemy courses and have few months of intense learning ahead of me.
-  - However, every step of the way I'll be looking to apply what I learn with these ideas that have surfaced, a couple of which build off of over two decades of 
-process improvement and business analyst experience. 
-- 🌱 I’m currently learning Python:
-  - On my first day of 100 Days of Code - The Complete Python Pro Bootcamp for 2021 I completed two days worth. Now, it's time
+- 🌱 I’m currently learning Python with 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 to apply myself, finish the entire course, and then get into the The Complete 2021 Web Development Bootcamp I also purchased. 
-  - After that, I'll see what needs to be
-learned. I expect that as I build experience I'll be guided to those tools that best support the inspiration that's in mind.
 - 💞️ I’m looking to collaborate on ... inspiring projects when I have the experience to do so. Fow now, I'm taking two decades of experience of learning how to solve 
 problems and to build out my development toolkit to realize business evolution.
 - 📫 You can view my LinkedIn profile here: https://www.linkedin.com/in/carmien-owen-3555a69/
