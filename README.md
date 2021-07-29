@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Carewen (known as Carmien in the business world). My friends call me Carewen, my clients know me as Carmien (because it's complicated :)
+- I'm working on building out phase 1 of LanesFlow. It's coming along great. 3 months into the Python journey, and discovering Django, I'm seeing amazing potential.
 - 👀 I've spent over 12 years as a visual developer with the Nintex Workflow/Forms stack. If you've not heard of Nintex
 it's a visual workflow development tool on the SharePoint stack. 
   - My opus (so far) is a business automation system for a ~$300M company that builds multi-family
@@ -24,8 +25,7 @@ by a SharePoint architect (who stood the farm up) and our Co-Founder (who purcha
   - This experience is going to strongly influence how I engage in expanding my development toolkit. 
 - 👀 I’m interested in expanding my toolkit. I've had some inspiration around some ideas for some web services. I won't get into those as yet because I've been
 inspired to learn about Python and Web Development.
-- 🌱 I’m currently learning Python with 100 Days of Code - The Complete Python Pro Bootcamp for 2021
-to apply myself, finish the entire course, and then get into the The Complete 2021 Web Development Bootcamp I also purchased. 
+- 🌱 I worked my way through Python with 100 Days of Code - The Complete Python Pro Bootcamp for 2021. I've got a JS bootcamp yet to do. But first, I'm building out the back-end and application layer of LanesFlow. 
 - 💞️ I’m looking to collaborate on ... inspiring projects when I have the experience to do so. Fow now, I'm taking two decades of experience of learning how to solve 
 problems and to build out my development toolkit to realize business evolution.
 - 📫 You can view my LinkedIn profile here: https://www.linkedin.com/in/carmien-owen-3555a69/
