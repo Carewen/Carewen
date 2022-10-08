@@ -2,7 +2,7 @@
 - Started working on my first open source project - a digital library https://cosmicchrist.love
 - April 2022: Deployed v1 of an exciting Event Management solution at https://whurthy.com (in beta)
 - September 2021: Deployed v0.5 of my first web application (and the idea that brought me to Python in the first place) at https://lanesflow.io
-- 👀 I've spent over 12 years as a visual developer with the Nintex Workflow/Forms stack. If you've not heard of Nintex
+- 👀 I've spent over a decade as a visual developer with the Nintex Workflow/Forms stack. If you've not heard of Nintex
 it's a visual workflow development tool on the SharePoint stack. 
 - 🌱 I’m interested in expanding my toolkit. My focus is in Django.
 - 💞️ I’m looking to collaborate on ... inspiring projects when I have the experience to do so. Fow now, I'm taking two decades of experience of learning how to solve 
