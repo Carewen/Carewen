@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carewen
-- Started working on my first open source project - a digital library https://cosmicchrist.love
-- April 2022: Deployed v1 of an exciting Event Management solution at https://whurthy.com (in beta)
+- April 2022: Deployed v1 of an exciting Event/Services Management solution at https://whurthy.com (in beta)
+- Started working on my first open source project - a digital metaphysical library and educational portal at https://cosmicfellowship.love
 - September 2021: Deployed v0.5 of my first web application (and the idea that brought me to Python in the first place) at https://lanesflow.io
 - 👀 I've spent over a decade as a visual developer with the Nintex Workflow/Forms stack. If you've not heard of Nintex
 it's a visual workflow development tool on the SharePoint stack. 
