@@ -9,7 +9,7 @@ Before discovering Django I spent over a decade as a visual developer with the S
 In 2021 I discovered Django and have become a big fan of the framework. The saying that "Django makes easy things easy and the hard things possible" rings so very true to me. I am currently working on my third/fourth deployed projects. My focus has been on pure Django with some JS until this point, as my preference is to dive deep into a framework with the intention of mastering it. My deployment experience has focused on the Digital Ocean platform, Docker and Postgres. I'm getting very comfortable with the full breadth of Django while realizing the both the power and speed of what native Django can bring to the table.
 
 
-My passion is bringing my passion for decades of problem-solving and empowering business evolution together with tools that help organization's realize business evolution. If you're looking for a process-first developer that has experience with facilitating strategic planning, organizational redesign, process improvement strategies to better understand value and eliminating customer pain-points then I would love to hear from you.
+My passion is bringing my passion for decades of problem-solving and empowering business evolution together with tools that help organization's realize business evolution. If you're looking for a value-first developer that has experience with facilitating strategic planning, organizational redesign, process improvement strategies to better understand value and eliminating customer pain-points then I would love to hear from you.
 
 - 📫 You can view my LinkedIn profile here: https://www.linkedin.com/in/carewen/
 
